@@ -3,6 +3,7 @@ body{
 }
 
 
+
 header a{
     text-decoration: none;
 }
@@ -80,6 +81,7 @@ li a:hover {
     grid-template-rows: auto;
     grid-gap: 20px;
 }
+
 
 @media only screen and (min-width:500px) {
     #container{

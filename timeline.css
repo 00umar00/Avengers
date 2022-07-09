@@ -1,11 +1,12 @@
-body{
-    background: -webkit-linear-gradient(
-         -225deg,
-         #231553 0%,
-         #44107a 29%,
-         #ff1361 67%,
-         salmon  100%
-          );
+.background{
+    background-image: url(image/background.jpg);
+    
+    
+    
+    
+}
+.charac{
+    padding-top: 7.5px;
 }
 
 header a{
