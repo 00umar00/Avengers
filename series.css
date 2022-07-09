@@ -1,7 +1,12 @@
 body{
     background-color: #000;
 }
-
+h2{
+    color: #f4f4f4;
+}
+h4{
+    color: #f4f4f4;
+}
 
 header a{
     text-decoration: none;
@@ -16,18 +21,6 @@ header{
    background:#000;
 }
 
-h2{
-    background: -webkit-linear-gradient(
-         -225deg,
-         #231557 0%,
-         #44107a 29%,
-         #ff1361 67%,
-         #fff800 100%
-          );
-    background-clip: border-box;
-     -webkit-background-clip: text;
-     -webkit-text-fill-color:transparent;
-}
 
 header ul{
     list-style: none;
