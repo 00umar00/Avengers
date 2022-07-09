@@ -61,10 +61,6 @@ header ul li:nth-child(4){
     border-top: 4px solid #cc33ff;
 }
 
-li a:hover {
-    background-color: #156eee;
-}
-
 #container{
     width: 90%;
     max-width: 1200px;
@@ -104,14 +100,14 @@ li a:hover {
     justify-content: space-around;
 }
 .card:hover{
-    top: 12px;
+    top: 5px;
     box-shadow: 0 6px 8px rgb(60, 60, 60)
     
 }
 .card:hover{
-    -webkit-transform: scale(1.04);
-    -ms-transform: scale(1.04);
-    transform: scale(1.04);
+    -webkit-transform: scale(1.02);
+    -ms-transform: scale(1.02);
+    transform: scale(1.02);
 }
 
 #num1{
